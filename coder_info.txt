@@ -1,2 +1,4 @@
 Name: Charlie Watson
 Email: charles.watson.1@city.ac.uk
+
+This file is to monitor the name and email address of a GitHub user.
